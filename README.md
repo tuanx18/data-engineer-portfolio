@@ -35,55 +35,52 @@ This is a repository in which I can show off my skills, projects, and progressio
  
 ## Portfolio Projects
 
-In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details
+In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
-### Project 1
+### Diabetes Prediction
 
-**Code** : Link
+**Code** : [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
 
-**Technology used**: ...
+**Description**: The dataset includes hundreds of thousands of entries on each patient to test and scan for Diabetes. Each record contains diabetes-related statistics (age, gender, hypertension history, heart disease history, smoking history, bmi, HbA1c level, blood glucose level), and the last column is the Diabete-infected Classifier; anyone with a 1 on this field is tested Positive for Diabetes, and anyone with a 0 is tested No-Diabete. The project's workflow is as follows: Data Collection, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Disease Prediction Using Machine Learning Algorithms.
 
-**Goal**: To determine what factors contribute the most to a movie's success.
+**Goal**: To determine what factors could be the cause for Diabetes, and to predict the disease in the future based on the statistics.
 
-**Description**: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, balancing data.
 
-**Skills**: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Technology**: Python, Pandas, Matplotlib, Seaborn, MinMaxScaler, GridSearchCV, Confusion Matrix, Classification Report, Random Forest, Logistic Regression, Gaussian Naive Bayes, K-Nearest Neighbors, ROC Curve
 
-**Technology**: 
-
-**Results**: Using Python to 
+**Results**: Python was used to clean the data, which was then displayed using numerous Matplotlib visualizations. After processing, all of the data will be given directly into Machine Learning algorithms, which will predict the outcome based on several fields to determine whether or not a patient has Diabetes.
 
 ### Project 2
 
 **Code** : Link
 
-**Technology used**: ...
+**Technology used**: 
 
-**Goal**: To determine what factors contribute the most to a movie's success.
+**Goal**: 
 
-**Description**: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description**: 
 
-**Skills**: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills**: 
 
 **Technology**: 
 
-**Results**: Using Python to 
+**Results**: 
 
 ### Project 3
 
 **Code** : Link
 
-**Technology used**: ...
+**Technology used**: 
 
-**Goal**: To determine what factors contribute the most to a movie's success.
+**Goal**: 
+**Description**: 
 
-**Description**: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
-
-**Skills**: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills**: 
 
 **Technology**: 
 
-**Results**: Using Python to 
+**Results**:  
 
 ## Education
 
