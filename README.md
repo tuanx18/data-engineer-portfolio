@@ -18,7 +18,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 - [About me](https://github.com/tuanx18/data-analysis-portfolio)
 - [Portfolio Projects]()
   - Python
-    - 
+    - [Water Potability Prediction]()
     - [Diabetes Analysis and Prediction]()
     - [Used Car Price Analysis]()
   - SQL
@@ -53,7 +53,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 ### Water Potability Prediction
 
-**Code** : [Water Potability Prediction]()
+**Code** : [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
 
 **Description**: This collection provides measurements and predicts of water quality related to potability, which is the acceptability of water for human consumption. The major goal of the dataset is to provide insights into water quality characteristics and aid in deciding whether or not the water is potable. On this project, I employed machine learning techniques to anticipate the outcome of water sample records for following usage. The outcomes of models such as Categorical Boosting Classifier and Gaussian Naive Bayes Classifier may not be optimal due to the instability and disconnection between data fields.
 
