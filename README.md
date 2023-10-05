@@ -51,36 +51,17 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Python was used to clean the data, which was then displayed using numerous Matplotlib visualizations. After processing, all of the data will be given directly into Machine Learning algorithms, which will predict the outcome based on several fields to determine whether or not a patient has Diabetes.
 
-### Project 2
+### Water Potability Prediction
 
-**Code** : Link
+**Code** : [Water Potability Prediction]()
 
-**Technology used**: 
+**Description**: This collection provides measurements and predicts of water quality related to potability, which is the acceptability of water for human consumption. The major goal of the dataset is to provide insights into water quality characteristics and aid in deciding whether or not the water is potable. On this project, I employed machine learning techniques to anticipate the outcome of water sample records for following usage. The outcomes of models such as Categorical Boosting Classifier and Gaussian Naive Bayes Classifier may not be optimal due to the instability and disconnection between data fields.
 
-**Goal**: 
+**Skills**: To determine the water if it is drinkable or not based on the statistics given
 
-**Description**: 
+**Technology**: Python, Pandas, Matplotlin, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
 
-**Skills**: 
-
-**Technology**: 
-
-**Results**: 
-
-### Project 3
-
-**Code** : Link
-
-**Technology used**: 
-
-**Goal**: 
-**Description**: 
-
-**Skills**: 
-
-**Technology**: 
-
-**Results**:  
+**Results**: Python was used 100% on this project in order for Data Imputation, Visualization and applying Machine Learning Algorithms including Catboost and Gaussian Naive Bayes
 
 ## Education
 
