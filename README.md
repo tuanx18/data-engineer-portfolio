@@ -18,6 +18,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 - [About me](https://github.com/tuanx18/data-analysis-portfolio)
 - [Portfolio Projects]()
   - Python
+    - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
     - [Water Potability Prediction]()
     - [Diabetes Analysis and Prediction]()
     - [Used Car Price Analysis]()
@@ -36,6 +37,18 @@ This is a repository in which I can show off my skills, projects, and progressio
 ## Portfolio Projects
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
+
+### Airline Passenger Satisfaction Analysis
+
+**Code** : [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
+
+**Description**: This project assists an airline in identifying areas for improvement based on feedback information from each client who utilized its services. The collection of data includes a wide range of information, including consumer gender, age, and type as well as numerous rating criteria like Inflight service and Cleanliness. It comprises 23 fields in total that are used to determine whether or not the customer is satisfied. My EDA was followed by various recommendations for successful problem-solving tactics. These suggestions intended to improve my strategy and were supported by data-driven insights. Then, in order to advise the person who required it, I utilized 10 different machine learning models to determine which one was the best and most effective.
+
+**Skills**: To determine in which fields do the airline need improvement
+
+**Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, RobustScaler, ROC Curve, CatBoost, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Ada Boost, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
+
+**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Catboost and 9 more models
 
 ### Diabetes Prediction
 
@@ -59,7 +72,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Skills**: To determine the water if it is drinkable or not based on the statistics given
 
-**Technology**: Python, Pandas, Matplotlin, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
+**Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
 
 **Results**: Python was used 100% on this project in order for Data Imputation, Visualization and applying Machine Learning Algorithms including Catboost and Gaussian Naive Bayes
 
