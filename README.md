@@ -18,6 +18,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 - [About me](https://github.com/tuanx18/data-analysis-portfolio)
 - [Portfolio Projects]()
   - Python
+    - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
     - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
     - [Water Potability Prediction]()
     - [Diabetes Analysis and Prediction]()
@@ -37,6 +38,19 @@ This is a repository in which I can show off my skills, projects, and progressio
 ## Portfolio Projects
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
+
+### Airline Passenger Satisfaction Analysis
+
+**Code** : [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
+
+**Description**: Our data analysis and data science project is a groundbreaking endeavor that aims to uncover the mysteries of the universe by classifying celestial objects such as stars, quasars, and galaxies. Equipped with a dataset containing 18 curated feature columns, our project holds the promise of advancing astronomical science and discovery in several remarkable ways.
+
+**Skills**: To classify the type of stars for further astronomical purposes
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
+
+**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 6 more models
+
 
 ### Airline Passenger Satisfaction Analysis
 
