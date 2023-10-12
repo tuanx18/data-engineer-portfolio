@@ -39,7 +39,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
-### Airline Passenger Satisfaction Analysis
+### Stellar Classification
 
 **Code** : [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
 
