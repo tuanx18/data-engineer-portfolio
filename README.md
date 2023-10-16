@@ -18,6 +18,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 - [About me](https://github.com/tuanx18/data-analysis-portfolio)
 - [Portfolio Projects]()
   - Python
+    - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
     - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
     - [Water Potability Prediction]()
@@ -39,18 +40,33 @@ This is a repository in which I can show off my skills, projects, and progressio
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
+### Travel Insurance Prediction
+
+**Code** : [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
+
+**Description**: By using machine learning models to forecast outcomes based on consumers who have already purchased insurance, this project assists the insurance company in focusing on new clients based on the qualities and characteristics that they gave. By focusing on the right consumers, the company may cut costs, utilize data, and increase profits by utilizing the computer's intelligence.
+
+**Goal**: To predict customer who would want to buy the Travel Insurance and who do not.
+
+**Skills**: data cleaning, data analysis, data visualization, confusion matrix, balancing data, data scaling, machine learning, predictive models
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron, XGBoost, CatBoost, SMOTE, time, random
+
+**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 8 more models.
+
 ### Stellar Classification
 
 **Code** : [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
 
 **Description**: Our data analysis and data science project is a groundbreaking endeavor that aims to uncover the mysteries of the universe by classifying celestial objects such as stars, quasars, and galaxies. Equipped with a dataset containing 18 curated feature columns, our project holds the promise of advancing astronomical science and discovery in several remarkable ways.
 
-**Skills**: To classify the type of stars for further astronomical purposes
+**Goal**: To classify the type of stars for further astronomical purposes
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, balancing data.
 
 **Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
 **Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 6 more models
-
 
 ### Airline Passenger Satisfaction Analysis
 
@@ -58,7 +74,9 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Description**: This project assists an airline in identifying areas for improvement based on feedback information from each client who utilized its services. The collection of data includes a wide range of information, including consumer gender, age, and type as well as numerous rating criteria like Inflight service and Cleanliness. It comprises 23 fields in total that are used to determine whether or not the customer is satisfied. My EDA was followed by various recommendations for successful problem-solving tactics. These suggestions intended to improve my strategy and were supported by data-driven insights. Then, in order to advise the person who required it, I utilized 10 different machine learning models to determine which one was the best and most effective.
 
-**Skills**: To determine in which fields do the airline need improvement
+**Goal**: To determine in which fields do the airline need improvement
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, balancing data.
 
 **Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, RobustScaler, ROC Curve, CatBoost, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Ada Boost, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
@@ -84,7 +102,9 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Description**: This collection provides measurements and predicts of water quality related to potability, which is the acceptability of water for human consumption. The major goal of the dataset is to provide insights into water quality characteristics and aid in deciding whether or not the water is potable. On this project, I employed machine learning techniques to anticipate the outcome of water sample records for following usage. The outcomes of models such as Categorical Boosting Classifier and Gaussian Naive Bayes Classifier may not be optimal due to the instability and disconnection between data fields.
 
-**Skills**: To determine the water if it is drinkable or not based on the statistics given
+**Goal**: To determine the water if it is drinkable or not based on the statistics given
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, balancing data.
 
 **Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
 
