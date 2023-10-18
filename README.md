@@ -20,6 +20,7 @@ This is a repository in which I can show off my skills, projects, and progressio
   - Python
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
+    - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
     - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
     - [Water Potability Prediction]()
     - [Diabetes Analysis and Prediction]()
@@ -67,6 +68,20 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 **Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
 **Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 6 more models
+
+### Fatalities in Israel-Palestines War Analysis
+
+**Code** : [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
+
+**Description**: The "Fatalities in Israel-Palestine War Analysis" project is a comprehensive data analysis and visualization endeavor aimed at shedding light on the grim and complex topic of fatalities within the Israel-Palestine conflict from 2000 to 2023. This project utilizes a wealth of data to provide a deep and insightful exploration of the various aspects of casualties, including their numbers, causes, the involved forces, geographical distribution, and more. The project starts by collecting and organizing a vast dataset containing statistics related to fatalities during the Israel-Palestine conflict. This data is meticulously curated and processed to ensure accuracy and relevance.
+
+**Goal**: To analyse the number of deaths and their causes in order to see the destruction happening within the warzone from year 2000 to 2023
+
+**Skills**: data cleaning, data analysis, data visualization, time series, geological analysis.
+
+**Technology**: Python, Pandas, Matplotlib, Histplot, Time Series.
+
+**Results**: Matplotlib played a huge role for this project, when all tasks related to analysis are visualized by this library.
 
 ### Airline Passenger Satisfaction Analysis
 
