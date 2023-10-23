@@ -23,6 +23,7 @@ This is a repository in which I can show off my skills, projects, and progressio
     - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
     - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
     - [Water Potability Prediction]()
+    - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
     - [Diabetes Analysis and Prediction]()
     - [Used Car Price Analysis]()
   - SQL
@@ -124,6 +125,20 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 **Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
 
 **Results**: Python was used 100% on this project in order for Data Imputation, Visualization and applying Machine Learning Algorithms including Catboost and Gaussian Naive Bayes
+
+### Breast Cancer Prediction
+
+**Code** :[Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
+
+**Description**: I designed and executed a data-driven project focused on predicting the diagnosis of breast cancer. Leveraging a dataset comprising 27 feature columns related to health, I conducted a comprehensive analysis to forecast the likelihood of malignancy ("M") or benignity ("B"). The project encompassed crucial stages, including data cleaning, exploratory data analysis (EDA), and the application of various machine learning classifier models.
+
+**Goal**: To determine the diagnosis of the patients, to see if it is "B" (low chance) or "M" (positive for breast cancer)
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, confusion matrix, scaling.
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, MinMaxScaler, StandardScaler
+
+**Results**: Successfully using python to build data visualization and applying Machine Learning model for medical purposes.
 
 ## Education
 
