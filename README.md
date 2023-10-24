@@ -56,6 +56,20 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 8 more models.
 
+### Student Performance in Exam Analysis
+
+**Code** : [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
+
+**Description**: This project conducted an extensive data analysis project focusing on the factors influencing students' test scores. Utilizing data visualization and statistical techniques, I uncovered key insights into the role of poverty, parental education, ethnicity, and test preparation in student performance. This project not only provided valuable insights for educational improvement but also emphasized the importance of data-driven decision-making in addressing academic disparities.
+
+**Goal**: To analyze a dataset containing information about students' test scores and various demographic factors to gain insights into the relationships between these variables
+
+**Skills**: data cleaning, data analysis, data visualization, storytelling.
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Math, Seaborn
+
+**Results**: A comprehensive analysis of the factors impacting students' test scores, highlighting the significance of socioeconomic status, parental education, ethnicity, and test preparation, which can inform targeted educational interventions and policy decisions
+
 ### Stellar Classification
 
 **Code** : [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
