@@ -19,6 +19,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 - [Portfolio Projects]()
   - Python
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
+    - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
     - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
     - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
     - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
@@ -55,7 +56,21 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron, XGBoost, CatBoost, SMOTE, time, random
 
-**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 8 more models.
+**Results**: Utilized various machine learning models to predict customers' likelihood to purchase travel insurance, enhancing the company's ability to target potential clients and optimize profits.
+
+### Australia Rain Prediction
+
+**Code** : [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
+
+**Description**: This project is centered around predicting tomorrow's rain in Australia. The dataset used comprises approximately 10 years of daily weather observations from multiple locations across the country. The primary objective of this project is to develop classification models that can determine whether it will rain tomorrow (Yes or No) based on historical weather data.
+
+**Goal**: To predict if there will be rain in the next day based on today's weather features
+
+**Skills**: data cleaning, data analysis, data visualization, data scaling, machine learning, predictive models
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, Label Encoder, Plotpy Express, StandardScaler
+
+**Results**: Developed and evaluated classification models, including Random Forest, for predicting rain in Australia based on historical weather data, with the Random Forest model achieving the highest accuracy and precision.
 
 ### Student Performance in Exam Analysis
 
@@ -83,7 +98,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
-**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Gradient Boosting and 6 more models
+**Results**: Applied machine learning models to classify celestial objects, including stars, quasars, and galaxies, enhancing our understanding of the universe and supporting data-driven advancements in astronomical research.
 
 ### Fatalities in Israel-Palestines War Analysis
 
@@ -97,7 +112,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Matplotlib, Histplot, Time Series.
 
-**Results**: Matplotlib played a huge role for this project, when all tasks related to analysis are visualized by this library.
+**Results**: Conducted a comprehensive analysis of fatalities within the Israel-Palestine conflict from 2000 to 2023, exploring casualties, their causes, geographic distribution, and more, to shed light on the complex and grim topic of war-related deaths.
 
 ### Airline Passenger Satisfaction Analysis
 
@@ -111,7 +126,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, RobustScaler, ROC Curve, CatBoost, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Ada Boost, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
-**Results**: Python was used 100% on this project in order for Data Cleaning, Data Preprocessing, Data Visualization and applying Machine Learning Algorithms including Catboost and 9 more models
+**Results**: Utilized various machine learning models to identify areas for improvement in an airline's services based on customer feedback, enhancing the airline's strategy and customer satisfaction
 
 ### Diabetes Prediction
 
@@ -125,7 +140,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Matplotlib, Seaborn, MinMaxScaler, GridSearchCV, Confusion Matrix, Classification Report, Random Forest, Logistic Regression, Gaussian Naive Bayes, K-Nearest Neighbors, ROC Curve
 
-**Results**: Python was used to clean the data, which was then displayed using numerous Matplotlib visualizations. After processing, all of the data will be given directly into Machine Learning algorithms, which will predict the outcome based on several fields to determine whether or not a patient has Diabetes.
+**Results**: Identified key factors contributing to Diabetes, developed predictive models, and gained insights into disease causation, enabling early detection and improved health outcomes.
 
 ### Water Potability Prediction
 
@@ -139,7 +154,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Gaussian Naive Bayes, CatBoost, SMOTE, Binning, Clustering
 
-**Results**: Python was used 100% on this project in order for Data Imputation, Visualization and applying Machine Learning Algorithms including Catboost and Gaussian Naive Bayes
+**Results**: Successfully predicted water potability, enhancing the understanding of water quality and suitability for human consumption using machine learning techniques.
 
 ### Breast Cancer Prediction
 
@@ -153,7 +168,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Technology**: Python, Pandas, Numpy, Matplotlib, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, MinMaxScaler, StandardScaler
 
-**Results**: Successfully using python to build data visualization and applying Machine Learning model for medical purposes.
+**Results**: Effectively utilized machine learning to predict breast cancer diagnosis, distinguishing between benign and malignant cases.
 
 ## Education
 
