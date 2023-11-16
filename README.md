@@ -1,5 +1,6 @@
-# HOANG ANH TUAN - Portfolio On Data Analysis
-This is my profile on Data Analysis
+# Mr. Hoang Anh Tuan - Data Specialists: Engineering & Analytics Portfolio
+Navigating Data Realms: A Data Engineer's Journey by Hoang Anh Tuan, 3 years education of Software Development and 2 years on Data Engineering
+
 ## About me
 
 Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics, and data analysis. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of Data Specialist, I am delighted to demonstrate my technical and analytical talents in the field of Data Science.
@@ -42,9 +43,11 @@ This is a repository in which I can show off my skills, projects, and progressio
  
 ## Portfolio Projects
 
+### 1. Python Data Analytics
+
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
-### Travel Insurance Prediction
+#### Travel Insurance Prediction
 
 **Code** : [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
 
@@ -58,7 +61,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Utilized various machine learning models to predict customers' likelihood to purchase travel insurance, enhancing the company's ability to target potential clients and optimize profits.
 
-### Australia Rain Prediction
+#### Australia Rain Prediction
 
 **Code** : [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
 
@@ -72,7 +75,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Developed and evaluated classification models, including Random Forest, for predicting rain in Australia based on historical weather data, with the Random Forest model achieving the highest accuracy and precision.
 
-### Student Performance in Exam Analysis
+#### Student Performance in Exam Analysis
 
 **Code** : [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
 
@@ -86,7 +89,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: A comprehensive analysis of the factors impacting students' test scores, highlighting the significance of socioeconomic status, parental education, ethnicity, and test preparation, which can inform targeted educational interventions and policy decisions
 
-### Stellar Classification
+#### Stellar Classification
 
 **Code** : [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
 
@@ -100,7 +103,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Applied machine learning models to classify celestial objects, including stars, quasars, and galaxies, enhancing our understanding of the universe and supporting data-driven advancements in astronomical research.
 
-### Fatalities in Israel-Palestines War Analysis
+#### Fatalities in Israel-Palestines War Analysis
 
 **Code** : [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
 
@@ -114,7 +117,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Conducted a comprehensive analysis of fatalities within the Israel-Palestine conflict from 2000 to 2023, exploring casualties, their causes, geographic distribution, and more, to shed light on the complex and grim topic of war-related deaths.
 
-### Airline Passenger Satisfaction Analysis
+#### Airline Passenger Satisfaction Analysis
 
 **Code** : [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
 
@@ -128,7 +131,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Utilized various machine learning models to identify areas for improvement in an airline's services based on customer feedback, enhancing the airline's strategy and customer satisfaction
 
-### Diabetes Prediction
+#### Diabetes Prediction
 
 **Code** : [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
 
@@ -142,7 +145,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Identified key factors contributing to Diabetes, developed predictive models, and gained insights into disease causation, enabling early detection and improved health outcomes.
 
-### Water Potability Prediction
+#### Water Potability Prediction
 
 **Code** : [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
 
@@ -156,7 +159,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Successfully predicted water potability, enhancing the understanding of water quality and suitability for human consumption using machine learning techniques.
 
-### Breast Cancer Prediction
+#### Breast Cancer Prediction
 
 **Code** :[Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
 
@@ -170,18 +173,18 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Effectively utilized machine learning to predict breast cancer diagnosis, distinguishing between benign and malignant cases.
 
-## Education
+### Education
 
 - Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020
 - Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023
 
-## Certificates
+### Certificates
 
 - Certi A
 - Certi B
 - Certi C
 
-## Contacts
+### Contacts
 
 - Personal Email: anhtuanhoang2001@gmail.com
 - Zalo: (+84) 38 230 4536
