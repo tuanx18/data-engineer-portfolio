@@ -57,7 +57,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 ### 1. Python Data Analytics
 
-*Public Repository:* ()[]
+*Public Repository:* [Python DA]()
 
 #### Travel Insurance Prediction
 
@@ -201,7 +201,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 ### 2. Structured Query Language (SQL)
 
-*Public Repository:* ()[]
+*Public Repository:* [SQL]()
 
 #### AdventureWorks Practical SQL - Knowledge Showcase Project
 
