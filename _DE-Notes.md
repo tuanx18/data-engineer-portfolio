@@ -23,18 +23,20 @@ This is a repository in which I can show off my skills, projects, and progressio
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
     - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
     - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
+    - [Mobile Price Classification](https://github.com/tuanx18/ds-python-projects/blob/main/Mobile_Price_Classification.ipynb)
     - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
     - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
-    - [Water Potability Prediction]()
+    - [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
     - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
-    - [Diabetes Analysis and Prediction]()
+    - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
     - [Used Car Price Analysis]()
   - SQL
-  - PowerBI
-    - [Used Car Price Analysis]()
+    - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
 - [Education]()
   - Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020
-  - Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023
+  - Swinburne University of Technology Hanoi, Software Technology and Development, Jan 2020 - Sep 2023
+      - Status: Graduated - **[BACHELOR OF INFORMATION AND COMMUNICATION TECHNOLOGY (SOFTWARE TECHNOLOGY)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
+  
 - [Certificates]()
 
 - [Contact]()
@@ -102,6 +104,20 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 **Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, ROC Curve, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Neighbors Classifier, GaussianNB, Multi-layer Perceptron
 
 **Results**: Applied machine learning models to classify celestial objects, including stars, quasars, and galaxies, enhancing our understanding of the universe and supporting data-driven advancements in astronomical research.
+
+#### Mobile Price Classification 
+
+**Code** : [Mobile Price Classification](https://github.com/tuanx18/ds-python-projects/blob/main/Mobile_Price_Classification.ipynb)
+
+**Description**: The project involved working with a dataset encompassing 3000 rows and 20 distinct features representing various attributes of phones, including RAM, battery life, dimensions (width, height, depth), pixel specifications, color, and more. Each phone's data was utilized to predict its price class, categorized into four classes: lowest price (Class 0), normal price (Class 1), above-average price (Class 2), and expensive phones (Class 3).
+
+**Goal**: To leverage machine learning techniques on a dataset comprising 3000 phone entries with 20 features to accurately predict the price class of each phone, categorized into distinct pricing tiers.
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, data scaling
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, MinMaxScaler, Logistic Regression, Decision Tree, Random Forest, XGBoost, Support Vector Machine ,GaussianNB
+
+**Results**: The project successfully developed predictive models that accurately categorized phones into price classes, enabling effective classification of phones based on their attributes into different pricing tiers.
 
 #### Fatalities in Israel-Palestines War Analysis
 
