@@ -16,8 +16,8 @@ This is a repository in which I can show off my skills, projects, and progressio
 
 ## Table of Contents
 
-- [About me](https://github.com/tuanx18/data-analysis-portfolio)
-- [Portfolio Projects]()
+1. About me
+2. Portfolio Projects
   - Python
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
@@ -41,13 +41,13 @@ This is a repository in which I can show off my skills, projects, and progressio
       - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
       - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
       
-- [Education]()
+3. Education
   - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
   - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
   
-- [Certificates]()
+4. Certificates
 
-- [Contact]()
+5. Contact
   - Personal Email: anhtuanhoang2001@gmail.com
   - Zalo: (+84) 38 230 4536
  
@@ -56,6 +56,8 @@ This is a repository in which I can show off my skills, projects, and progressio
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
 ### 1. Python Data Analytics
+
+*Public Repository:* ()[]
 
 #### Travel Insurance Prediction
 
@@ -198,6 +200,8 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 **Results**: Effectively utilized machine learning to predict breast cancer diagnosis, distinguishing between benign and malignant cases.
 
 ### 2. Structured Query Language (SQL)
+
+*Public Repository:* ()[]
 
 #### AdventureWorks Practical SQL - Knowledge Showcase Project
 
