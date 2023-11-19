@@ -32,6 +32,15 @@ This is a repository in which I can show off my skills, projects, and progressio
     - [Used Car Price Analysis]()
   - SQL
     - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
+      - [Part 1 - Getting used to beginner level of SQL commands](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-1.sql)
+      - [Part 2 - Diving Deeper into Data Manipulation](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-2.sql)
+      - [Part 3 - SQL Metamorphosis: Crafting with REPLACE, CAST, and NTILE](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-3.sql)
+      - [Part 4 - SQL Shapeshifters: Introduction to Data Ranking and Splitting](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-4.sql)
+      - [Part 5 - Introduction to Functions: Learning about Table-Returned Functions](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-5.sql)
+      - [Part 6 - Dynamic SQL and Stored Procedures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-6.sql)
+      - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
+      - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
+      
 - [Education]()
   - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
   - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
@@ -193,6 +202,8 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 #### AdventureWorks Practical SQL - Knowledge Showcase Project
 
 **Note**: Taking advantage of the SQL Server's capability to import and open .bak files, I strategically used this feature by employing the AdventureWorks 2022 Database to create a significant project. This project serves as a comprehensive showcase, including a range of SQL commands from fundamental to advanced levels, covering intricate aspects such as Dynamic SQL and user functions.
+
+**Repository**: [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
 
 **Technology**: *SQL - SQL Server*
 
