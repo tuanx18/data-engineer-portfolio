@@ -19,6 +19,7 @@ This is a repository in which I can show off my skills, projects, and progressio
 1. About me
 2. Portfolio Projects
   - Python
+    - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
     - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
@@ -57,7 +58,21 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 ### 1. Python Data Analytics
 
-*Public Repository:* [Python DA]()
+*Public Repository:* [Python DA](https://github.com/tuanx18/ds-python-projects)
+
+#### Customer Churn Prediction
+
+**Code**: [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
+
+**Description**: The project encompasses a multifaceted approach, including crucial tasks such as data cleaning, in-depth data analysis, and comprehensive data visualization to glean insights. Additionally, it employs the creation of a confusion matrix to evaluate model performance, addressing the data imbalance through techniques like data balancing. Furthermore, the project incorporates data scaling methods to enhance model efficiency and employs a range of machine learning algorithms to build predictive models, facilitating accurate predictions regarding customer churn behavior.
+
+**Goal**: To forecast customer behavior using a dataset comprising 19 feature columns and a target column, predicting customer return likelihood
+
+**Skills**: data cleaning, data analysis, data visualization, confusion matrix, balancing data, data scaling, machine learning, predictive models
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Histplot, Correlation Heatmap, Confusion Matrix, Classification Report, Logistic Regression, Decision Tree, Random Forest, K-Neighbors Classifier, GaussianNB, Support Vector Machine, SMOTE, GridSearch
+
+**Results**: predicted customer return behavior using machine learning models trained on feature-rich data, achieving an accuracy of 97% in determining potential churn.
 
 #### Travel Insurance Prediction
 
