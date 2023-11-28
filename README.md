@@ -17,7 +17,21 @@ This is a repository in which I can show off my skills, projects, and progressio
 ## Table of Contents
 
 1. About me
-2. Portfolio Projects
+2. Skills and Technologies
+   - SQL
+   - PowerBI
+   - Python
+   - Pandas
+   - Matplotlib
+   - Numpy
+   - Machine Learning Models
+   - C++
+   - Apache Spark
+   - Hadoop
+   - MongoDB
+   - Git
+4. Awards
+5. Portfolio Projects
   - Python
     - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
@@ -126,11 +140,6 @@ And there are many more models that I have been going through, but the 10 above 
 ### 10. MongoDB
 
 ### 11. Git
-
-
-
-
-
 
 
 
