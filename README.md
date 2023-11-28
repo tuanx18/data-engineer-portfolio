@@ -51,6 +51,93 @@ This is a repository in which I can show off my skills, projects, and progressio
 5. Contact
   - Personal Email: anhtuanhoang2001@gmail.com
   - Zalo: (+84) 38 230 4536
+
+## Skills and Technologies
+
+Say no more, let's dive into my data engineering expertise and the technologies I'm familiar with.
+
+### 1. SQL
+
+**Level**: Advanced
+
+**Description**: I have been immersed in SQL since my university days, accumulating over five years of continuous learning and practice. Throughout this journey, I've honed my skills to write highly sophisticated and advanced SQL code. 
+
+### 2. PowerBI
+
+**Level**: Proficient
+
+**Description**: Same as my SQL skill, I have been learning and sharpening my dashboard designing using Microsoft PowerBI since the very first day of learning in my University. 
+
+### 3. Python
+
+**Level**: Proficient
+
+**Description**: Because of its simplicity and ease of comprehension, Python has always been my favorite programming language. It is because of this language that I have a passion for coding. If I put in the effort, I can do programming projects ranging from beginner to nearly advanced. The majority of my knowledge in Python is self-taught, and I can state with confidence that I actually possess both intermediate and basic knowledge of Python programming.
+
+### 4. Pandas
+
+**Level**: Skilled
+
+**Description**: I purposefully explored this framework in order to understand about data analysis. To be honest, I am actually proficient at using the Pandas Framework in Python, having worked on over 20 projects that have required it.
+
+### 5. Matplotlib
+
+**Level**: Intermediate
+
+**Description**: Cultivating my data visualization skills led me to dig deeper into Matplotlib within Python. While I consider myself at an intermediate level, I've utilized Matplotlib across numerous projects, harnessing its capabilities to create insightful visual representations for data interpretation and analysis.
+
+### 6. Numpy
+
+**Level**: Intermediate
+
+**Description**: Through practical application across various projects, I've leveraged Numpy's functionalities to efficiently handle arrays and perform complex mathematical operations, steadily advancing my proficiency in this fundamental library.
+
+### 7. Machine Learning Models
+
+**Level**: Competent
+
+**Description**: After a year of dedicated learning in Machine Learning Predictive Modeling using Python, I've actively engaged in approximately 20 projects spanning Regression and Classification tasks. While I may not claim expertise, I've amassed fundamental knowledge in this field, confidently implementing algorithms in Python for various applications with ease and agility.
+
+**Breakdown types:**
+
+  - Linear Regression
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+  - K-Nearest Neighbour
+  - Support Vector Machine
+  - Gaussian Naive Bayes
+  - Gradient Boosting
+  - K-Means Clustering
+  - Ensemble Methods
+
+And there are many more models that I have been going through, but the 10 above models/algorithms are the ones that I am the best at.
+
+### 8. C++ Programming Language
+
+**Level**: Novice
+
+**Description**: During my time in university, I studied two subjects that required me to use one of the most powerful programming languages I have ever learnt. Even if all I know about programming is the fundamentals and basic to intermediate commands, I can practice and become proficient at it if it becomes necessary for my job.
+
+### 8. Apache Spark
+
+### 9. Hadoop
+
+### 10. MongoDB
+
+### 11. Git
+
+
+
+
+
+
+
+
+## Awards
+
+**Related Awards**: 
+ - Best performance in the subject "**INF10002 - Database Analysis and Design**" with the academic score of *99/100*
  
 ## Portfolio Projects
 
