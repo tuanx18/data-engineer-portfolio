@@ -17,7 +17,10 @@ This is a repository in which I can show off my skills, projects, and progressio
 ## Table of Contents
 
 1. About me
-2. Skills and Technologies
+2. Education
+   - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
+   - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
+3. Skills and Technologies
    - SQL
    - PowerBI
    - Python
@@ -25,7 +28,6 @@ This is a repository in which I can show off my skills, projects, and progressio
    - Matplotlib
    - Numpy
    - Machine Learning Models
-   - C++
    - Apache Spark
    - Hadoop
    - MongoDB
@@ -57,15 +59,19 @@ This is a repository in which I can show off my skills, projects, and progressio
       - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
       - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
       
-3. Education
-  - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
-  - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
-  
-4. Certificates
-
-5. Contact
+6. Contact
   - Personal Email: anhtuanhoang2001@gmail.com
   - Zalo: (+84) 38 230 4536
+
+
+### Education
+
+- *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
+    - Status: **Postponed** 
+
+- *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
+    - Status: **Graduated**
+    - Public Link to my Degree: **[Bachelor of Information and Communication Technology (Software Technology)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
 
 ## Skills and Technologies
 
@@ -128,26 +134,37 @@ Say no more, let's dive into my data engineering expertise and the technologies 
 
 And there are many more models that I have been going through, but the 10 above models/algorithms are the ones that I am the best at.
 
-### 8. C++ Programming Language
+*The technologies listed below are ones that I am new to, but I am certain that I have learned the fundamentals in each subject. If any of the technologies demand a higher level of knowledge, I would be willing to study it quickly and thoroughly because I have the right mindset.*
 
-**Level**: Novice
+### 8. Git
 
-**Description**: During my time in university, I studied two subjects that required me to use one of the most powerful programming languages I have ever learnt. Even if all I know about programming is the fundamentals and basic to intermediate commands, I can practice and become proficient at it if it becomes necessary for my job.
+**Level**: Researcher
 
 ### 8. Apache Spark
 
+**Level**: Researcher
+
 ### 9. Hadoop
+
+**Level**: Researcher
 
 ### 10. MongoDB
 
-### 11. Git
-
-
+**Level**: Researcher
 
 ## Awards
 
 **Related Awards**: 
  - Best performance in the subject "**INF10002 - Database Analysis and Design**" with the academic score of *99/100*
+ - Championship of **FPT Hanoi Debate Contest**, organized by Swinburne Alliance Program			
+ - Best Performance on Subject "**INF10002 - Database Analysis and Design**" with the score of **99/100**
+ - Qualified High Distinction in the subject "**COS20001 - User-Centred Design**"				
+ - Qualified High Distinction in the subject "**COS10022 - Introduction to Data Science**"
+ - Qualified High Distinction in the subject "**COS20019 - Cloud Computing Architecture**"			
+ - Best performance of Subject "**INF20016 - Big Data Management**" with the score of 94/100
+ - Best performance of Subject "**SWE30009 – Software Testing and Reliability**" with the score of 90/100
+ - Qualified High Distinction in the subject "**ICT30005-Professional Issues in Information Technology**"
+
  
 ## Portfolio Projects
 
@@ -372,21 +389,6 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 - **Description**: While loops and basic logics were barely mentioned in the previous parts, part 9 is dedicated to helping learners grasp logic and develop a problem-solving mindset about loops and conditions. This section shows all the knowledge required to understand the concepts of WHILE and IF, but it does so with a smaller focus on tables and data than the previous sections. Despite the fact that many challenges were developed uniquely and that task requirements may have been similar, solving them required a great deal of critical thinking. Furthermore, the BIT, also known as "Booleans" in other programming languages, which are either 1 (True) or 0 (False), also caused some of the very first problems with this section. In combination with the complex use of Subqueries and 'WHERE EXISTS,' this section enhances the problem solving mechanism.
 - **Length**: 50 Problems - 1079 Lines
 - **Main Knowledge**: ***Subqueries, Loops using WHILE, Conditions using IF, WHERE EXISTS, BIT***
-
-### Education
-
-- *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
-    - Status: **Postponed** 
-
-- *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
-    - Status: **Graduated**
-    - Public Link to my Degree: **[Bachelor of Information and Communication Technology (Software Technology)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
-
-### Certificates
-
-- Certi A
-- Certi B
-- Certi C
 
 ### Contacts
 
