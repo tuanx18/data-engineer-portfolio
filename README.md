@@ -64,7 +64,7 @@ This is a repository in which I can show off my skills, projects, and progressio
   - Zalo: (+84) 38 230 4536
 
 
-### Education
+## Education
 
 - *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
     - Status: **Postponed** 
