@@ -30,6 +30,7 @@ This is a repository in which I can show off my skills, projects, and progressio
    - Hadoop
    - MongoDB
    - Git
+   - AWS
 4. Awards
 5. Portfolio Projects
   - Python
