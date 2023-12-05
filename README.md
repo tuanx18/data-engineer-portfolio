@@ -35,7 +35,7 @@ This is a repository in which I can show off my skills, projects, and progressio
    - AWS
 4. Awards
 5. Portfolio Projects
-  - Python
+  - Python Data Science
     - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
@@ -48,6 +48,8 @@ This is a repository in which I can show off my skills, projects, and progressio
     - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
     - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
     - [Used Car Price Analysis]()
+  - Apache Spark
+    - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
   - SQL
     - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
       - [Part 1 - Getting used to beginner level of SQL commands](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-1.sql)
@@ -170,7 +172,7 @@ And there are many more models that I have been going through, but the 10 above 
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
 
-### 1. Python Data Analytics
+### 1. Python Data Science
 
 *Public Repository:* [Python DA](https://github.com/tuanx18/ds-python-projects)
 
@@ -328,7 +330,45 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Effectively utilized machine learning to predict breast cancer diagnosis, distinguishing between benign and malignant cases.
 
-### 2. Structured Query Language (SQL)
+### 2. Apache Spark (Scala Spark, PySpark)
+
+*Public Repository:* [Apache Spark](https://github.com/tuanx18/apache-spark-projects)
+
+#### Billionaire Research And Exploration 
+
+**Code**: [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
+
+**Description**: A comprehensive analysis project utilizing PySpark and the Billionaires Dataset to delve into the world of extreme wealth. The project involves data cleaning, exploration, and in-depth analysis of various attributes associated with billionaires worldwide. It encompasses observing trends, applying data scaling techniques, and implementing machine learning algorithms, such as K-means clustering and logistic regression using MLlib.
+
+**Goal**: To leverage PySpark and the Billionaires Dataset to conduct comprehensive data analysis, implement machine learning algorithms, and derive actionable insights into wealth distribution, demographic trends, and industry patterns among billionaires worldwide
+
+**Skills**: data cleaning, data analysis, data visualization, machine learning, predictive models, confusion matrix, data scaling.
+
+**Technology**: Apache Spark, PySpark, SQL, Python, Pandas, Matplotlib, Correlation Heatmap, Confusion Matrix, MLlib, K-Means Clustering, Logistic Regression
+
+**Results**: Yielded insightful findings, including distinct clusters of billionaires based on wealth attributes identified through K-means clustering, alongside predictive analysis of wealth accumulation factors using Logistic Regression, offering a great understanding of wealth distribution and demographic trends among billionaires globally.
+
+#### Big Data Fundamentals Journey with PySpark
+
+**Description**: Embark on a transformative journey into the world of Big Data using PySpark. This project is a progressive exploration, divided into four stages, reflecting my evolution from a novice to an intermediate PySpark enthusiast.
+
+##### Part 1 - Introduction to PySpark
+- **URL**: [Part 1 - Getting used to beginner level of SQL commands](https://github.com/tuanx18/apache-spark-projects/blob/main/Spark_1_Fundamentals.ipynb)
+- **Description**: In the initial phase, dive into the foundational concepts of PySpark. Learn its architecture, core functionalities, and basic data manipulation techniques. Gain hands-on experience with small-scale datasets, mastering RDDs (Resilient Distributed Datasets) and DataFrame APIs.
+
+##### Part 2 - Data Transformation and Processing
+- **URL**: [Part 2 - DataFrame in Pyspark](https://github.com/tuanx18/apache-spark-projects/blob/main/Spark_2_DataFrames.ipynb)
+- **Description**: Progress to a more sophisticated stage where data transformation becomes key. Explore PySpark's powerful capabilities in processing large volumes of data efficiently. Work with transformations, aggregations, and complex operations on diverse datasets.
+
+##### Part 3 - Data Visualization using PySpark
+- **URL**: [Part 3 - Data Visualization using PySpark](https://github.com/tuanx18/apache-spark-projects/blob/main/Spark_3_Data_Visualization.ipynb)
+- **Description**: Dive into the world of data visualization with PySpark. Discover techniques to visualize and comprehend data at scale. Leverage PySpark's visualization libraries and tools to create insightful visual representations of complex datasets.
+
+##### Part 4 - Machine Learning Application using MLlib
+- **URL**: [Part 4 - Machine Learning Application using MLlib](https://github.com/tuanx18/apache-spark-projects/blob/main/Spark_4_Machine_Learning_MLlib.ipynb)
+- **Description**: Take the leap into machine learning with PySpark. Explore the application of various machine learning algorithms using PySpark's MLlib library. Build and evaluate models for regression, classification, and clustering, empowering you to extract meaningful insights and predictions from Big Data.
+
+### 3. Structured Query Language (SQL)
 
 *Public Repository:* [SQL]()
 
