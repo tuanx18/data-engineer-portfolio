@@ -1,5 +1,7 @@
-# Mr. Hoang Anh Tuan - Data Specialists: Engineering & Analytics Portfolio
+# Hoang Anh Tuan - Data Engineer Portfolio
 Navigating Data Realms: A Data Engineer's Journey by Hoang Anh Tuan, 3 years education of Software Development and 2 years on Data Engineering
+
+[My resume]()
 
 ## About me
 
