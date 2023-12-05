@@ -1,7 +1,7 @@
 # Hoang Anh Tuan - Data Engineer Portfolio
-Navigating Data Realms: A Data Engineer's Journey by Hoang Anh Tuan, 3 years education of Software Development and 2 years on Data Engineering
+*Navigating Data Realms: A Data Engineer's Journey by Hoang Anh Tuan, 3 years education of **Software Development** and 2 years on **Data Engineering***
 
-[My resume]()
+*Profile*: **[My resume - tuanx18](https://github.com/tuanx18/Data-Engineer/blob/main/Data-Engineer-Resume-Ver5.pdf)**
 
 ## About me
 
