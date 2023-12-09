@@ -1,20 +1,28 @@
 # Hoang Anh Tuan - A Data Engineering Portfolio
-*Navigating Data Realms: A Data Engineer's Journey by Hoang Anh Tuan, 3 years education of **Software Development** and 2 years on **Data Engineering***
 
-*Profile*: **[My resume - tuanx18]()**
+**Update**: December 12th, 2023
+
+**My CV / Resume:** [DE Resume Version 10](https://github.com/tuanx18/data-engineer-portfolio/blob/main/TuanHoang-DE-Resume-10.pdf) 
+
+*Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
+
 
 ## About me
 
-Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics, and data analysis. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of Data Specialist, I am delighted to demonstrate my technical and analytical talents in the field of Data Science.
+Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Engineer**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Engineering** and **Data Science**.
 
-During my time at university, I was the best at developing software and constructing websites that met the needs of the subjects. But then I realized that I might be better at dealing with data, so I applied my coding and software development skills to the Data Science playground. Now I can effectively declare that I can work with complex data and have a strong attitude for identifying trends and patterns. Furthermore, while taking classes at university laboratories, I obtained expertise in leadership, data management, statistical analysis, and machine learning, all of which I believe will be useful for my next adventure as a Data Specialist.
+During my time at university, I was the best at developing software and constructing websites that met the needs of the subjects. But then I realized that I might be better at dealing with data, so I applied my coding and software development skills to the **Data Science** playground. Now I can effectively declare that I can work with complex data and proficient in constructing efficient data pipelines, developing expansive data lakes, and optimizing data warehouses using a blend of programming expertise and cloud technologies. Furthermore, while taking classes at university laboratories, I obtained expertise in **leadership**, **data management**, **statistical analysis**, **machine learning** and **data manipulation**, all of which I believe will be useful for my next adventure as a **Data Engineer**.
 
-In my spare time, I eagerly investigate new data analysis tools and approaches, always looking for ways to broaden my knowledge and sharpen my skills.
-If you're seeking for someone with a unique combination of software development and data analysis skills, I'd love to talk about how I might help your projects and organization. Please contact me and let's begin on a data-driven journey together!
+In my spare time, I am always excited investigate new data analysis / manipulation tools and approaches, always looking for ways to broaden my knowledge and sharpen my skills.
+If you're seeking for someone with a unique combination of software development and data engineering skills, I'd love to talk about how I might help your projects and organization. Please contact me and let's begin on a data-driven journey together!
 
-The CV is included within the repository
+*The CV is included within the repository*
 
-This is a repository in which I can show off my skills, projects, and progression in Data Analysis / Data Science.
+This is a repository in which I can show off my skills, projects, and progression in **Data Engineering / Data Science**.
+
+### Why Data Engineer?
+
+At the onset of my journey into the realm of data, I initially aspired to pursue a career in Data Analysis. However, as my university education progressed, I delved deeply into various subjects and consistently excelled, achieving the highest distinctions across disciplines like Object-oriented Programming and Software Testing. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the culmination of my university tenure, I realized the potential for synergy between my aptitude in data analysis and my proficiency in software development. This realization led me to the hybrid role of a Data Engineer, a decision I wholeheartedly embraced and have never looked back since.
 
 ## Table of Contents
 
