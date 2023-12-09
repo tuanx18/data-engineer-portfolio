@@ -16,7 +16,7 @@
 
 **Email:** anhtuanhoang2001@gmail.com
 
-**Linkedin**: [Click Here to Access](https://www.linkedin.com/in/tuanx18/)
+**Linkedin**: [Click Here](https://www.linkedin.com/in/tuanx18/)
 
 Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Engineer**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Engineering** and **Data Science**.
 
@@ -47,7 +47,7 @@ In the other hand, **Swinburne University of Technology Hanoi** is an Australia-
 
 Why would I transfer to a different university after only four months of study? You might wonder. The studying environment and discipline may hold the key to the answer. I had a really difficult time adjusting to the constant state of enslavement during my time as a student at **HUST**, and I had a lot of trouble communicating. Then I took the decision to look for a university across the globe, and lucky for me, one of my best friends who was studying in Australia at the time mentioned **Swinburne University**. That was at the beginning of 2020, and once I took my very first class at this university, everything changed. Since then, I have been in love with the institution; the atmosphere for education is excellent, people are interacting with one another, there is no backstabbing, no trash-talking, no arguing, just peace.
 
-### What did I prepared for the Data Engineering Career?
+### What did I prepare for the Data Engineering Career?
 
 What did I prepared? Everything. But if you are curious, here is the breakdown of all the knowledge I have gathered to be a part of **Data Engineering** community:
 
@@ -73,7 +73,7 @@ What did I prepared? Everything. But if you are curious, here is the breakdown o
 
 **10. Git**  ------------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
 
-**11. Amazon Website Services**  ----------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+**11. Amazon Web Services**  ---------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
 
 **12.  C++**  ----------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
 
