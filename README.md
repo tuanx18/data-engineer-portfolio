@@ -22,7 +22,72 @@ This is a repository in which I can show off my skills, projects, and progressio
 
 ### Why Data Engineer?
 
-At the onset of my journey into the realm of data, I initially aspired to pursue a career in Data Analysis. However, as my university education progressed, I delved deeply into various subjects and consistently excelled, achieving the highest distinctions across disciplines like Object-oriented Programming and Software Testing. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the culmination of my university tenure, I realized the potential for synergy between my aptitude in data analysis and my proficiency in software development. This realization led me to the hybrid role of a Data Engineer, a decision I wholeheartedly embraced and have never looked back since.
+At the beginning of my journey into the realm of data, I initially aspired to acquire a career in Data Analysis. However, as my university education progressed, I dug deeply into various subjects and consistently be the best at, achieving the highest distinctions across disciplines such as **Object-oriented Programming** and **Software Testing**. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the end of my university time, I realized the potential for synergy between my aptitude in **Data Analysis** and my proficiency in **Software Development**. This realization led me to the combination role of the both 2 fields: As a **Data Engineer** - which was the best decision I have made in my lifetime.
+
+### Why not Data Scientist or AI Scientist?
+
+In fact, while I was taking data engineering courses, I did consider becoming a **Data Scientist**, who would spend their entire working day researching ways to make machine learning algorithms more accurate and identifying key learning characteristics for a dataset, or an **Artificial Intelligence Scientist**, who would create extremely sophisticated language models and dedicate their entire life to refining them. Yep, I had some thought, but eventually, I just love being a **Data Engineer**, perhaps an angel has led me this career path, who knows.
+
+I possessed skills that were applicable across all three roles, enabling me to pivot between them effortlessly. But at the end of the day, technology is technology, I just simply do not want to switch at all.
+
+### Why did I attend 2 Universities but only has one Bachelor's Degree?
+
+For your information, **Hanoi University of Science and Technology (HUST)** is literally the best university of Vietnam, ranked 350 globally (*According to IDP Education, 2022*), anyone that graduates this university is guaranteed to have a good career. 
+
+In the other hand, **Swinburne University of Technology Hanoi** is an Australia-based Technology university, ranked #43 in the world across all disciplines, ranked #2 in the world for Mathematics and Computer Science (*According to IDP Education, 2022*).
+
+Why would I transfer to a different university after only four months of study? You might wonder. The studying environment and discipline may hold the key to the answer. I had a really difficult time adjusting to the constant state of enslavement during my time as a student at **HUST**, and I had a lot of trouble communicating. Then I took the decision to look for a university across the globe, and lucky for me, one of my best friends who was studying in Australia at the time mentioned **Swinburne University**. That was at the beginning of 2020, and once I took my very first class at this university, everything changed. Since then, I have been in love with the institution; the atmosphere for education is excellent, people are interacting with one another, there is no backstabbing, no trash-talking, no arguing, just peace.
+
+### What did I prepared for the Data Engineering Career?
+
+What did I prepared? Everything. But if you are curious, here is the breakdown of all the knowledge I have gathered to be a part of **Data Engineering** community:
+
+**0. English Profiency**  ---------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸]
+
+**1. SQL**  ------------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※]
+
+**2. PowerBI / Tableu**  ---------------------------------  [✸✸✸✸✸✸✸✸✸✸※※※※※※※※※※]
+
+**3. Python**  --------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※]
+
+**4. Pandas**  --------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※※]
+
+**5. Matplotlib**  ----------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※]
+
+**6. Machine Learning Models**  -----------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
+
+**7. Spark**  ----------------------------------------------  [✸✸✸✸✸✸✸✸※※※※※※※※※※※※]
+
+**8. Hadoop Ecosystem**  ------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**9. MongoDB / Redis**  --------------------------------  [✸✸✸✸✸✸※※※※※※※※※※※※※※]
+
+**10. Git**  ------------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**11. Amazon Website Services**  ----------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**12.  C++**  ----------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**13.  Kotlin**  --------------------------------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
+
+**14.  Airflow**  -------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**15.  HTML / CSS**  --------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※※]
+
+**16.  Object-Oriented Design**  ------------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
+
+**17.  Data Structures and Patterns**  -------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
+
+**18.  Agile Methodology**  -----------------------------  [✸✸✸✸✸✸✸✸✸※※※※※※※※※※※]
+
+## Education
+
+- *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
+    - Status: **Postponed** 
+
+- *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
+    - Status: **Graduated**
+    - Public Link to my Degree: **[Bachelor of Information and Communication Technology (Software Technology)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
 
 ## Table of Contents
 
@@ -30,21 +95,8 @@ At the onset of my journey into the realm of data, I initially aspired to pursue
 2. Education
    - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
    - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
-3. Skills and Technologies
-   - SQL
-   - PowerBI
-   - Python
-   - Pandas
-   - Matplotlib
-   - Numpy
-   - Machine Learning Models
-   - Apache Spark
-   - Hadoop
-   - MongoDB
-   - Git
-   - AWS
-4. Awards
-5. Portfolio Projects
+3. Awards
+4. Portfolio Projects
   - Python Data Science
     - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
@@ -71,98 +123,9 @@ At the onset of my journey into the realm of data, I initially aspired to pursue
       - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
       - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
       
-6. Contact
+5. Contact
   - Personal Email: anhtuanhoang2001@gmail.com
   - Zalo: (+84) 38 230 4536
-
-
-## Education
-
-- *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
-    - Status: **Postponed** 
-
-- *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
-    - Status: **Graduated**
-    - Public Link to my Degree: **[Bachelor of Information and Communication Technology (Software Technology)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
-
-## Skills and Technologies
-
-Say no more, let's dive into my data engineering expertise and the technologies I'm familiar with.
-
-### 1. SQL
-
-**Level**: Advanced
-
-**Description**: I have been immersed in SQL since my university days, accumulating over five years of continuous learning and practice. Throughout this journey, I've honed my skills to write highly sophisticated and advanced SQL code. 
-
-### 2. PowerBI
-
-**Level**: Proficient
-
-**Description**: Same as my SQL skill, I have been learning and sharpening my dashboard designing using Microsoft PowerBI since the very first day of learning in my University. 
-
-### 3. Python
-
-**Level**: Proficient
-
-**Description**: Because of its simplicity and ease of comprehension, Python has always been my favorite programming language. It is because of this language that I have a passion for coding. If I put in the effort, I can do programming projects ranging from beginner to nearly advanced. The majority of my knowledge in Python is self-taught, and I can state with confidence that I actually possess both intermediate and basic knowledge of Python programming.
-
-### 4. Pandas
-
-**Level**: Skilled
-
-**Description**: I purposefully explored this framework in order to understand about data analysis. To be honest, I am actually proficient at using the Pandas Framework in Python, having worked on over 20 projects that have required it.
-
-### 5. Matplotlib
-
-**Level**: Intermediate
-
-**Description**: Cultivating my data visualization skills led me to dig deeper into Matplotlib within Python. While I consider myself at an intermediate level, I've utilized Matplotlib across numerous projects, harnessing its capabilities to create insightful visual representations for data interpretation and analysis.
-
-### 6. Numpy
-
-**Level**: Intermediate
-
-**Description**: Through practical application across various projects, I've leveraged Numpy's functionalities to efficiently handle arrays and perform complex mathematical operations, steadily advancing my proficiency in this fundamental library.
-
-### 7. Machine Learning Models
-
-**Level**: Competent
-
-**Description**: After a year of dedicated learning in Machine Learning Predictive Modeling using Python, I've actively engaged in approximately 20 projects spanning Regression and Classification tasks. While I may not claim expertise, I've amassed fundamental knowledge in this field, confidently implementing algorithms in Python for various applications with ease and agility.
-
-**Breakdown types:**
-
-  - Linear Regression
-  - Logistic Regression
-  - Decision Tree
-  - Random Forest
-  - K-Nearest Neighbour
-  - Support Vector Machine
-  - Gaussian Naive Bayes
-  - Gradient Boosting
-  - K-Means Clustering
-  - Ensemble Methods
-
-And there are many more models that I have been going through, but the 10 above models/algorithms are the ones that I am the best at.
-
-*The technologies listed below are ones that I am new to, but I am certain that I have learned the fundamentals in each subject. If any of the technologies demand a higher level of knowledge, I would be willing to study it quickly and thoroughly because I have the right mindset.*
-
-### 8. Git
-
-**Level**: Researcher
-
-### 8. Apache Spark
-
-**Level**: Researcher
-
-### 9. Hadoop
-
-**Level**: Researcher
-
-### 10. MongoDB
-
-**Level**: Researcher
 
 ## Awards
 
