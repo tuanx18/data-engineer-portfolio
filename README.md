@@ -1,13 +1,22 @@
 # Hoang Anh Tuan - A Data Engineering Portfolio
 
+*Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
+
 **Update**: December 12th, 2023
 
 **My CV / Resume:** [DE Resume Version 10](https://github.com/tuanx18/data-engineer-portfolio/blob/main/TuanHoang-DE-Resume-10.pdf) 
 
-*Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
+## About Me
 
+**Based:** Hanoi, Vietnam
 
-## About me
+**Status:** Currently Open for a **Data Engineer** Job
+
+**Contact me:** Zalo (+84) 38 230 4536
+
+**Email:** anhtuanhoang2001@gmail.com
+
+**Linkedin**: [Click Here to Access](https://www.linkedin.com/in/tuanx18/)
 
 Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Engineer**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Engineering** and **Data Science**.
 
@@ -91,13 +100,6 @@ What did I prepared? Everything. But if you are curious, here is the breakdown o
 
 ## Table of Contents
 
-1. About me
-2. Education
-   - **Hanoi University of Science and Technology**, Computer Science, Sep 2019 - Jan 2020
-   - **Swinburne University of Technology Hanoi**, Software Technology and Development, Jan 2020 - Sep 2023
-3. Awards
-4. Portfolio Projects
-  - Python Data Science
     - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
@@ -144,6 +146,34 @@ What did I prepared? Everything. But if you are curious, here is the breakdown o
 ## Portfolio Projects
 
 In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
+
+### Table of Contents
+
+  - Python 
+    - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
+    - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
+    - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
+    - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
+    - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
+    - [Mobile Price Classification](https://github.com/tuanx18/ds-python-projects/blob/main/Mobile_Price_Classification.ipynb)
+    - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
+    - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
+    - [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
+    - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
+    - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
+    - [Used Car Price Analysis]()
+  - Apache Spark
+    - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
+  - SQL
+    - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
+      - [Part 1 - Getting used to beginner level of SQL commands](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-1.sql)
+      - [Part 2 - Diving Deeper into Data Manipulation](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-2.sql)
+      - [Part 3 - SQL Metamorphosis: Crafting with REPLACE, CAST, and NTILE](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-3.sql)
+      - [Part 4 - SQL Shapeshifters: Introduction to Data Ranking and Splitting](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-4.sql)
+      - [Part 5 - Introduction to Functions: Learning about Table-Returned Functions](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-5.sql)
+      - [Part 6 - Dynamic SQL and Stored Procedures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-6.sql)
+      - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
+      - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
 
 ### 1. Python Data Science
 
@@ -403,7 +433,8 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 - **Length**: 50 Problems - 1079 Lines
 - **Main Knowledge**: ***Subqueries, Loops using WHILE, Conditions using IF, WHERE EXISTS, BIT***
 
-### Contacts
+# THANKS FOR YOUR ATTENTION!
 
-- Personal Email: anhtuanhoang2001@gmail.com
-- Zalo: (+84) 38 230 4536
+Sincerely,
+
+*tuanx18*
