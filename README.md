@@ -2,9 +2,9 @@
 
 *Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
 
-**Update**: December 12th, 2023
+**Update**: February 2nd, 2024
 
-**My CV / Resume:** [DE Resume Version 10](https://github.com/tuanx18/data-engineer-portfolio/blob/main/TuanHoang-DE-Resume-10.pdf) 
+**My CV / Resume:** [DE Resume Version 10]() 
 
 ## About Me
 
@@ -83,11 +83,29 @@ What did I prepared? Everything. But if you are curious, here is the breakdown o
 
 **15.  HTML / CSS**  --------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※※]
 
-**16.  Object-Oriented Design**  ------------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
+**16.  Object-Oriented Programming**  ----------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
 
 **17.  Data Structures and Patterns**  -------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
 
 **18.  Agile Methodology**  -----------------------------  [✸✸✸✸✸✸✸✸✸※※※※※※※※※※※]
+
+**19. Tkinter UI**
+
+**20. Natural Language Processing**
+
+**21. OpenAI API**
+
+**22. Deep Learning Models**
+
+**23. Google Cloud Platform**
+
+**24. Prompt Engineering**
+
+**25. CI/CD**
+
+**26. TensorFlow**
+
+**27. Docker**
 
 ## Education
 
@@ -117,7 +135,9 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 ### Table of Contents
 
-  - Python 
+  - Programming (Python)
+    - [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
+  - Data Science (Python)
     - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
     - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
     - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
@@ -130,7 +150,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
     - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
     - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
     - [Used Car Price Analysis]()
-  - Apache Spark
+  - Spark SQL / PySpark
     - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
   - SQL
     - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
@@ -143,7 +163,23 @@ In my portfolio, you'll find a collection of diverse data science and data analy
       - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
       - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
 
-### 1. Python Data Science
+### 1. Programming (Python)
+
+#### Google Cloud Platform Data Engineer Certificate Assistant Tool
+
+**Code**: [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
+
+**Description**: The GCP Quiz Application is a comprehensive tool designed for users to enhance their knowledge and proficiency in Google Cloud Platform (GCP). It offers a diverse range of quizzes covering various GCP services and concepts, including compute, storage, networking, security, and more. The application facilitates effective learning through interactive quizzes, detailed explanations for correct and incorrect answers, and progress tracking features. Additionally, it incorporates customizable quiz options, enabling users to tailor quizzes based on their specific learning objectives and preferences.
+
+**Goal**: To help users deepen their understanding of GCP services and concepts, ultimately empowering them to excel in GCP-related certifications, projects, and professional endeavors. By offering a platform for practicing and assessing knowledge, the application aims to foster continuous learning and skill development within the GCP ecosystem.
+
+**Skills**: Object-oriented Programming, Quiz customization, interactive learning, progress tracking, GCP service knowledge, exam preparation, skill enhancement
+
+**Technology**: Python, Tkinter, Pandas, Time Management Modules
+
+**Results**: Users can effectively test and improve their knowledge of GCP services and concepts through interactive quizzes, achieving a deeper understanding and proficiency in Google Cloud Platform.
+
+### 2. Data Science using Python
 
 *Public Repository:* [Python DA](https://github.com/tuanx18/ds-python-projects)
 
@@ -301,7 +337,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 **Results**: Effectively utilized machine learning to predict breast cancer diagnosis, distinguishing between benign and malignant cases.
 
-### 2. Apache Spark (Scala Spark, PySpark)
+### 3. Apache Spark (Scala Spark, PySpark)
 
 *Public Repository:* [Apache Spark](https://github.com/tuanx18/apache-spark-projects)
 
@@ -339,7 +375,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 - **URL**: [Part 4 - Machine Learning Application using MLlib](https://github.com/tuanx18/apache-spark-projects/blob/main/Spark_4_Machine_Learning_MLlib.ipynb)
 - **Description**: Take the leap into machine learning with PySpark. Explore the application of various machine learning algorithms using PySpark's MLlib library. Build and evaluate models for regression, classification, and clustering, empowering you to extract meaningful insights and predictions from Big Data.
 
-### 3. Structured Query Language (SQL)
+### 4. Structured Query Language (SQL)
 
 *Public Repository:* [SQL]()
 
