@@ -2,13 +2,11 @@
 
 *Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
 
-**Update**: February 2nd, 2024
-
 ## About Me
 
 **Based:** Hanoi, Vietnam
 
-**Status:** Currently Open for a **Data Engineer** Job
+**Current Job**: Data Engineer | AI / NLP Engineer
 
 **Contact me:** xxx
 
@@ -23,9 +21,9 @@ During my time at university, I was the best at developing software and construc
 In my spare time, I am always excited investigate new data analysis / manipulation tools and approaches, always looking for ways to broaden my knowledge and sharpen my skills.
 If you're seeking for someone with a unique combination of software development and data engineering skills, I'd love to talk about how I might help your projects and organization. Please contact me and let's begin on a data-driven journey together!
 
-*The CV is included within the repository*
+This is a repository in which I can show off my skills, projects, and progression in the early stage of my **Data Engineering / Data Science** career.
 
-This is a repository in which I can show off my skills, projects, and progression in **Data Engineering / Data Science**.
+**Please note that this was an archived profile.**
 
 ### Why Data Engineer?
 
