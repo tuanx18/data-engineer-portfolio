@@ -4,19 +4,17 @@
 
 **Update**: February 2nd, 2024
 
-**My CV / Resume:** [DE Resume Version 10]() 
-
 ## About Me
 
 **Based:** Hanoi, Vietnam
 
 **Status:** Currently Open for a **Data Engineer** Job
 
-**Contact me:** Zalo (+84) 38 230 4536
+**Contact me:** xxx
 
 **Email:** anhtuanhoang2001@gmail.com
 
-**Linkedin**: [Click Here](https://www.linkedin.com/in/tuanx18/)
+**Linkedin**: [My Profile](https://www.linkedin.com/in/tuanx18/)
 
 Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Engineer**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Engineering** and **Data Science**.
 
@@ -31,103 +29,23 @@ This is a repository in which I can show off my skills, projects, and progressio
 
 ### Why Data Engineer?
 
-At the beginning of my journey into the realm of data, I initially aspired to acquire a career in Data Analysis. However, as my university education progressed, I dug deeply into various subjects and consistently be the best at, achieving the highest distinctions across disciplines such as **Object-oriented Programming** and **Software Testing**. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the end of my university time, I realized the potential for synergy between my aptitude in **Data Analysis** and my proficiency in **Software Development**. This realization led me to the combination role of the both 2 fields: As a **Data Engineer** - which was the best decision I have made in my lifetime.
-
-### Why not Data Scientist or AI Scientist?
-
-In fact, while I was taking data engineering courses, I did consider becoming a **Data Scientist**, who would spend their entire working day researching ways to make machine learning algorithms more accurate and identifying key learning characteristics for a dataset, or an **Artificial Intelligence Scientist**, who would create extremely sophisticated language models and dedicate their entire life to refining them. Yep, I had some thought, but eventually, I just love being a **Data Engineer**, perhaps an angel has led me this career path, who knows.
-
-I possessed skills that were applicable across all three roles, enabling me to pivot between them effortlessly. But at the end of the day, technology is technology, I just simply do not want to switch at all.
-
-### Why did I attend 2 Universities but only has one Bachelor's Degree?
-
-For your information, **Hanoi University of Science and Technology (HUST)** is literally the best university of Vietnam, ranked 350 globally (*According to IDP Education, 2022*), anyone that graduates this university is guaranteed to have a good career. 
-
-In the other hand, **Swinburne University of Technology Hanoi** is an Australia-based Technology university, ranked #43 in the world across all disciplines, ranked #2 in the world for Mathematics and Computer Science (*According to IDP Education, 2022*).
-
-Why would I transfer to a different university after only four months of study? You might wonder. The studying environment and discipline may hold the key to the answer. I had a really difficult time adjusting to the constant state of enslavement during my time as a student at **HUST**, and I had a lot of trouble communicating. Then I took the decision to look for a university across the globe, and lucky for me, one of my best friends who was studying in Australia at the time mentioned **Swinburne University**. That was at the beginning of 2020, and once I took my very first class at this university, everything changed. Since then, I have been in love with the institution; the atmosphere for education is excellent, people are interacting with one another, there is no backstabbing, no trash-talking, no arguing, just peace.
-
-### What did I prepare for the Data Engineering Career?
-
-What did I prepared? Everything. But if you are curious, here is the breakdown of all the knowledge I have gathered to be a part of **Data Engineering** community:
-
-**0. English Profiency**  ---------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸]
-
-**1. SQL**  ------------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※]
-
-**2. PowerBI / Tableu**  ---------------------------------  [✸✸✸✸✸✸✸✸✸✸※※※※※※※※※※]
-
-**3. Python**  --------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※]
-
-**4. Pandas**  --------------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※※]
-
-**5. Matplotlib**  ----------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※]
-
-**6. Machine Learning Models**  -----------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
-
-**7. Spark**  ----------------------------------------------  [✸✸✸✸✸✸✸✸※※※※※※※※※※※※]
-
-**8. Hadoop Ecosystem**  ------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**9. MongoDB / Redis**  --------------------------------  [✸✸✸✸✸✸※※※※※※※※※※※※※※]
-
-**10. Git**  ------------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**11. Amazon Web Services**  ---------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**12.  C++**  ----------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**13.  Kotlin**  --------------------------------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
-
-**14.  Airflow**  -------------------------------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**15.  HTML / CSS**  --------------------------------------  [✸✸✸✸✸✸✸✸✸✸✸✸✸※※※※※※※]
-
-**16.  Object-Oriented Programming**  ----------------------  [✸✸✸✸✸✸✸※※※※※※※※※※※※※]
-
-**17.  Data Structures and Patterns**  -------------------  [✸✸✸✸✸※※※※※※※※※※※※※※※]
-
-**18.  Agile Methodology**  -----------------------------  [✸✸✸✸✸✸✸✸✸※※※※※※※※※※※]
-
-**19. Tkinter UI**
-
-**20. Natural Language Processing**
-
-**21. OpenAI API**
-
-**22. Deep Learning Models**
-
-**23. Google Cloud Platform**
-
-**24. Prompt Engineering**
-
-**25. CI/CD**
-
-**26. TensorFlow**
-
-**27. Docker**
+At the beginning of my journey into the realm of data, I initially aspired to acquire a career in Data Analysis. However, as my university education progressed, I dug deeply into various subjects and consistently be the best at, achieving the highest distinctions across disciplines such as **Object-oriented Programming** and **Software Testing**. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the end of my university time, I realized the potential for synergy between my aptitude in **Data Analysis** and my proficiency in **Software Development**. This realization led me to the combination role of the both 2 fields: As a **Data Engineer** and **Data Scienctist** - which was the best decision I have made in my lifetime.
 
 ## Education
 
 - *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
-    - Status: **Postponed** 
+    - Status: **Graduated** 
 
 - *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
     - Status: **Graduated**
-    - Public Link to my Degree: **[Bachelor of Information and Communication Technology (Software Technology)](https://www.myequals.net/r/sharelink/ce370603-e6ea-4763-8479-dcf96cf3fc62/58166bee-4034-459f-a8a9-16a7b2e2a7ea)**
 
-## Awards
+## Certificates
 
-**Related Awards**: 
- - Best performance in the subject "**INF10002 - Database Analysis and Design**" with the academic score of *99/100*
- - Championship of **FPT Hanoi Debate Contest**, organized by Swinburne Alliance Program			
- - Best Performance on Subject "**INF10002 - Database Analysis and Design**" with the score of **99/100**
- - Qualified High Distinction in the subject "**COS20001 - User-Centred Design**"				
- - Qualified High Distinction in the subject "**COS10022 - Introduction to Data Science**"
- - Qualified High Distinction in the subject "**COS20019 - Cloud Computing Architecture**"			
- - Best performance of Subject "**INF20016 - Big Data Management**" with the score of 94/100
- - Best performance of Subject "**SWE30009 – Software Testing and Reliability**" with the score of 90/100
- - Qualified High Distinction in the subject "**ICT30005-Professional Issues in Information Technology**"
+- Google Cloud Professional Data Engineer 
+- Google Cloud Professional Cloud Architect 
+- Google Cloud Professional DevOps Engineer
+- AWS Certified Data Analytics – Specialty
+- AWS Certified Solutions Architect – Professional
 
 ## Portfolio Projects
 
