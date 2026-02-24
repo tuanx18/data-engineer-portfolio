@@ -1,55 +1,67 @@
 # Hoang Anh Tuan - A Data Engineering Portfolio
 
-*Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 2 years specializing in **Data Engineering***
+*Exploring Data Realms: Anh Tuan embarks on a journey through data engineering after a 3-year education in **Software Development**, followed by 4 years specializing in **Data Engineering***
 
 ## About Me
 
 **Based:** Hanoi, Vietnam
 
-**Current Job**: Data Engineer | AI / NLP Engineer
-
-**Contact me:** xxx
-
-**Email:** anhtuanhoang2001@gmail.com
+**Current Job**: Data Engineer | AI / NLP Engineer | Data Scientist
 
 **Linkedin**: [My Profile](https://www.linkedin.com/in/tuanx18/)
 
-Hello, my name is Anh Tuan! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "Computer Science - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Engineer**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Engineering** and **Data Science**.
+Hello, my name is Anh Tuan. I am a **Data Engineer** with a strong foundation in Computer Science and a deep passion for building scalable, reliable data systems. With a degree in Computer Science – Software Development, I bring a solid engineering mindset to the world of data, combining software architecture principles with advanced data platform expertise.
 
-During my time at university, I was the best at developing software and constructing websites that met the needs of the subjects. But then I realized that I might be better at dealing with data, so I applied my coding and software development skills to the **Data Science** playground. Now I can effectively declare that I can work with complex data and proficient in constructing efficient data pipelines, developing expansive data lakes, and optimizing data warehouses using a blend of programming expertise and cloud technologies. Furthermore, while taking classes at university laboratories, I obtained expertise in **leadership**, **data management**, **statistical analysis**, **machine learning** and **data manipulation**, all of which I believe will be useful for my next adventure as a **Data Engineer**.
+My journey began with a strong interest in Data Analysis and Data Science, but as I progressed through university and into the professional world, I discovered that my true strength lies in engineering the infrastructure that powers data-driven organizations. Leveraging my background in object-oriented programming, system design, and software quality, I transitioned naturally into Data Engineering, where I could build robust pipelines, scalable architectures, and cloud-native data platforms.
 
-In my spare time, I am always excited investigate new data analysis / manipulation tools and approaches, always looking for ways to broaden my knowledge and sharpen my skills.
-If you're seeking for someone with a unique combination of software development and data engineering skills, I'd love to talk about how I might help your projects and organization. Please contact me and let's begin on a data-driven journey together!
+Over the past four years, I have developed deep expertise in designing and operating production-grade data solutions across **GCP** and **AWS** environments. My work focuses on building end-to-end data pipelines, architecting data lakes and warehouses, optimizing large-scale SQL transformations, and ensuring reliability, governance, and performance at scale. I am particularly experienced in cloud-based data warehousing, workflow orchestration, distributed data processing, and modern lakehouse architectures.
 
-This is a repository in which I can show off my skills, projects, and progression in the early stage of my **Data Engineering / Data Science** career.
+Beyond technical implementation, I approach data engineering with a systems-thinking mindset — understanding not only how to build pipelines, but how to design sustainable data ecosystems that align with business strategy. As I continue to grow professionally, my long-term goal is to evolve into a Data Solutions Architect, designing enterprise-level data platforms that are scalable, secure, and future-ready.
+
+This repository reflects my progression from early Data Science exploration to becoming an experienced Data Engineer. It showcases not only technical projects, but also the evolution of my architectural thinking, problem-solving approach, and commitment to continuous improvement.
+
+Outside of work, I continuously explore emerging cloud technologies, distributed systems, and modern data architecture patterns — always striving to refine my expertise and stay ahead in the rapidly evolving data landscape.
+
+If you are looking for a data professional who combines strong software engineering fundamentals with modern cloud data architecture expertise, I would welcome the opportunity to connect and collaborate.
 
 **Please note that this was an archived profile.**
 
 ### Why Data Engineer?
 
-At the beginning of my journey into the realm of data, I initially aspired to acquire a career in Data Analysis. However, as my university education progressed, I dug deeply into various subjects and consistently be the best at, achieving the highest distinctions across disciplines such as **Object-oriented Programming** and **Software Testing**. While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance. As I approached the end of my university time, I realized the potential for synergy between my aptitude in **Data Analysis** and my proficiency in **Software Development**. This realization led me to the combination role of the both 2 fields: As a **Data Engineer** and **Data Scienctist** - which was the best decision I have made in my lifetime.
+At the beginning of my career, I was primarily drawn to Data Analysis, motivated by the challenge of extracting meaningful insights from data. During my university years, I developed a strong technical foundation, consistently achieving top distinctions in subjects such as Object-Oriented Programming and Software Testing. These experiences strengthened not only my analytical thinking but also my understanding of software architecture, system design, and code quality.
 
-## Education
+As I progressed academically and professionally, I recognized the powerful intersection between data analytics and software engineering. I became increasingly interested in building the infrastructure that enables analytics at scale — designing data pipelines, optimizing systems, and engineering reliable data platforms. This realization naturally led me toward Data Engineering, where I could combine analytical reasoning with strong engineering principles.
 
-- *Hanoi University of Science and Technology, Computer Science, Sep 2019 - Jan 2020*
-    - Status: **Graduated** 
-
-- *Swinburne University of Technology Hanoi, Software Development, Jan 2020 - Sep 2023*
-    - Status: **Graduated**
+Over the past four years, I have grown into an experienced Data Engineer, specializing in scalable data architecture, cloud-based data platforms, and production-grade pipeline development. My journey from data analysis to data engineering has allowed me to bridge the gap between data infrastructure and advanced analytics, enabling organizations to make reliable, data-driven decisions with confidence.
 
 ## Certificates
 
 - Google Cloud Professional Data Engineer 
 - Google Cloud Professional Cloud Architect 
-- Google Cloud Professional DevOps Engineer
 - AWS Certified Data Analytics – Specialty
 - AWS Certified Solutions Architect – Professional
+- Databricks Data Engineer Associate
+- Databricks Data Engineer Professional
+- Udacity Advanced SQL Nanodegree
 
 ## Portfolio Projects
 
-In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions. The below parts is where I placed the files and their details.
+In my portfolio, you’ll find a diverse collection of projects spanning Data Engineering, Data Science, and Data Analysis, with a primary focus on building robust, scalable data systems. I specialize in designing and implementing end-to-end data pipelines, optimizing data architectures, and ensuring reliable data workflows that power analytics and machine learning solutions. Alongside strong engineering foundations, I apply advanced analytical and data science techniques to extract meaningful insights, solve complex real-world problems, and support data-driven decision-making. This combination reflects my ability not only to analyze data, but to engineer the infrastructure that makes impactful analytics possible.
 
 ### Table of Contents
+
+- Data Engineering
+    - Retail Enterprise Data Platform & Pipeline Orchestration
+        - Designed and managed a centralized retail data platform handling high-volume transactional and operational data.
+        - Developed scalable ETL/ELT pipelines and optimized complex SQL transformations for analytics workloads.
+        - Orchestrated production-grade workflows using Airflow with monitoring and failure handling.
+        - Tech Stack: GCP (BigQuery, Cloud Storage, IAM) · Apache Airflow · SQL (Advanced & Performance Tuning) · Python · Databricks (Lakehouse Migration Roadmap) · Retail Data Modeling
+
+    - Intelligent Banking Lakehouse & AI-Augmented Data Engineering
+        - Engineered a secure banking data platform integrating on-premise Oracle systems with AWS cloud infrastructure.
+        - Built scalable ingestion and transformation pipelines using Databricks and PySpark.
+        - Applied AI prompt engineering to accelerate SQL development, validation, and documentation automation.
+        - Tech Stack: Oracle · AWS (S3, IAM, Glue, EC2) · Databricks (Delta Lake) · PySpark · SQL · AI Prompt Engineering · Banking & Regulatory Data Systems
 
   - Programming (Python)
     - [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
@@ -79,7 +91,53 @@ In my portfolio, you'll find a collection of diverse data science and data analy
       - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
       - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
 
-### 1. Programming (Python)
+### 1. Data Engineering
+
+#### Retail Enterprise Data Platform & Pipeline Orchestration  
+
+**Code** : Internal / Enterprise Project (Architecture & Pipeline Design Showcase Available Upon Request)  
+
+**Description**:  
+The "Retail Enterprise Data Platform & Pipeline Orchestration" project focuses on designing, developing, and operating a centralized data platform for a large-scale retail environment handling high-volume transactional, operational, and customer data. The project consolidated multiple heterogeneous data sources into a unified cloud-based data warehouse on GCP, ensuring scalability, reliability, and consistency across business units.
+
+Robust ETL/ELT pipelines were developed and orchestrated using Apache Airflow to automate ingestion, transformation, validation, and scheduling processes. Heavy SQL transformations were implemented within BigQuery to support analytics and BI workloads. The platform was architected with scalability in mind, preparing a structured roadmap for future migration toward a Databricks Lakehouse architecture.
+
+Strong emphasis was placed on data quality validation, query performance tuning, cost optimization, monitoring, and production-grade pipeline reliability.
+
+**Goal**:  
+To build and manage a scalable, centralized retail data platform enabling reliable analytics, high-volume processing, and efficient end-to-end orchestration.
+
+**Skills**:  
+Data architecture design, ETL/ELT development, workflow orchestration, advanced SQL optimization, data modeling (star schema), performance tuning, cloud warehousing, monitoring, data governance fundamentals.
+
+**Technology**:  
+GCP (BigQuery, Cloud Storage, IAM), Apache Airflow, SQL (Advanced & Performance Tuning), Python, Data Warehouse Modeling, Databricks (Lakehouse Migration Planning).
+
+**Results**:  
+Successfully centralized multi-source retail data into a scalable cloud warehouse, improved pipeline reliability through Airflow orchestration, optimized large-scale SQL workloads for analytics performance, and established a future-ready architecture aligned with modernization strategies.
+
+#### Intelligent Banking Lakehouse & AI-Augmented Data Engineering  
+
+**Code** : Enterprise Banking Data Platform (System Design & Pipeline Framework Documentation Available Upon Request)  
+
+**Description**:  
+The "Intelligent Banking Lakehouse & AI-Augmented Data Engineering" project centers on building a secure and scalable banking data platform integrating on-premise Oracle core banking systems with AWS cloud infrastructure. The solution modernized legacy workflows by implementing a cloud-based lakehouse architecture using Databricks and Delta Lake to ensure ACID-compliant and reliable data processing.
+
+Ingestion pipelines were developed to extract data from Oracle systems into AWS S3, followed by large-scale Spark transformations in Databricks using PySpark. The platform supported regulatory reporting, risk analytics, customer segmentation, and operational intelligence use cases.
+
+AI prompt engineering techniques were integrated to accelerate SQL generation, automate documentation, enhance validation checks, and improve engineering productivity. Security, IAM configuration, audit logging, and compliance requirements were carefully incorporated into the architecture.
+
+**Goal**:  
+To modernize banking data infrastructure through a secure lakehouse architecture that supports scalable analytics, regulatory compliance, and AI-enhanced engineering workflows.
+
+**Skills**:  
+Lakehouse architecture, cloud migration, secure data ingestion, Spark transformations, financial data modeling, regulatory compliance handling, AI prompt engineering for SQL automation, governance, performance optimization.
+
+**Technology**:  
+Oracle, AWS (S3, IAM, Glue, EC2), Databricks (Delta Lake), PySpark, SQL, AI Prompt Engineering, Secure Banking Data Architecture.
+
+**Results**:  
+Delivered a scalable and compliance-ready banking lakehouse platform, improved ingestion efficiency from legacy systems, enabled high-performance Spark-based processing, strengthened governance and auditability, and enhanced development productivity through AI-assisted workflows.
 
 #### Google Cloud Platform Data Engineer Certificate Assistant Tool
 
