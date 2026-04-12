@@ -6,7 +6,7 @@
 
 **Based:** Hanoi, Vietnam
 
-**Current Job**: Data Engineer | AI / NLP Engineer | Data Scientist
+**Current Job**: Data Engineer 
 
 **Linkedin**: [My Profile](https://www.linkedin.com/in/tuanx18/)
 
