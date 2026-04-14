@@ -8,6 +8,8 @@
 
 **Current Job**: Data Engineer 
 
+**Current Level**: Senior - Lead Data Engineer (2026)
+
 **Linkedin**: [My Profile](https://www.linkedin.com/in/tuanx18/)
 
 **My Tech Stacks**
