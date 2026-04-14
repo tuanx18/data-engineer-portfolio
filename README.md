@@ -50,18 +50,28 @@ In my portfolio, you’ll find a diverse collection of projects spanning Data En
 
 ### Table of Contents
 
-- Data Engineering
-    - Retail Enterprise Data Platform & Pipeline Orchestration
-        - Designed and managed a centralized retail data platform handling high-volume transactional and operational data.
-        - Developed scalable ETL/ELT pipelines and optimized complex SQL transformations for analytics workloads.
-        - Orchestrated production-grade workflows using Airflow with monitoring and failure handling.
-        - Tech Stack: GCP (BigQuery, Cloud Storage, IAM) · Apache Airflow · SQL (Advanced & Performance Tuning) · Python · Databricks (Lakehouse Migration Roadmap) · Retail Data Modeling
+#### 1. Data Engineering
 
-    - Intelligent Banking Lakehouse & AI-Augmented Data Engineering
-        - Engineered a secure banking data platform integrating on-premise Oracle systems with AWS cloud infrastructure.
-        - Built scalable ingestion and transformation pipelines using Databricks and PySpark.
-        - Applied AI prompt engineering to accelerate SQL development, validation, and documentation automation.
-        - Tech Stack: Oracle · AWS (S3, IAM, Glue, EC2) · Databricks (Delta Lake) · PySpark · SQL · AI Prompt Engineering · Banking & Regulatory Data Systems
+  - Data Engineering
+    - **Retail Enterprise Data Platform & Pipeline Orchestration**  
+      Designed and managed a centralized retail data platform on GCP, consolidating high-volume transactional and operational data from multiple sources. Developed scalable ETL/ELT pipelines with Apache Airflow and optimized complex SQL transformations in BigQuery for analytics workloads.
+
+    - **SaaS Customer Intelligence & Revenue Analytics Platform**  
+      Built a production-grade end-to-end ETL platform on Snowflake using Airflow, dbt, and Medallion Architecture (Bronze → Silver → Gold). Implemented incremental loading and SCD Type 2 models to support customer lifecycle and subscription analytics while optimizing warehouse performance and cost.
+
+    - **Customer Feedback Analysis Platform**  
+      Developed a multilingual customer feedback analysis system powered by Generative AI and MLOps practices on Google Cloud. Built scalable Airflow pipelines for LLM inference, fine-tuned models using PEFT and prompt-tuning, optimized BigQuery workloads (~40% faster), and integrated automated CI/CD with Jenkins and Docker.
+
+    - **Intelligent Banking Lakehouse & AI-Augmented Data Engineering**  
+      Engineered a secure banking lakehouse platform integrating on-premise Oracle systems with AWS and Databricks. Implemented scalable PySpark pipelines, applied AI prompt engineering to accelerate SQL development and documentation, and ensured regulatory compliance and governance.
+
+    - **Interview Trainer AI Chatbot** (Personal Open Source Project)  
+      Created a desktop AI-powered interview preparation tool using GPT-4o-mini for real-time scoring and detailed feedback. Features include smart question filtering, live timer, history tracking, and a GUI question builder.  
+      GitHub: https://github.com/tuanx18/genAI_interview_practice_program
+
+    - **Google Cloud Platform Data Engineer Certificate Assistant Tool** (Open Source)  
+      Built an interactive quiz application to help users prepare for the Google Cloud Professional Data Engineer certification. Supports customizable quizzes, detailed explanations, and progress tracking.  
+      GitHub: https://github.com/tuanx18/python-gcp-cert-tool
 
   - Programming (Python)
     - [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
@@ -115,6 +125,78 @@ GCP (BigQuery, Cloud Storage, IAM), Apache Airflow, SQL (Advanced & Performance 
 
 **Results**:  
 Successfully centralized multi-source retail data into a scalable cloud warehouse, improved pipeline reliability through Airflow orchestration, optimized large-scale SQL workloads for analytics performance, and established a future-ready architecture aligned with modernization strategies.
+
+#### Interview Trainer AI Chatbot  
+
+**Code** : Personal Project – Open Source  
+**GitHub** : https://github.com/tuanx18/genAI_interview_practice_program  
+
+**Description**:  
+The "Interview Trainer AI Chatbot" is a powerful desktop application designed to help candidates prepare for technical interviews using Generative AI. It allows users to practice open-ended questions in areas such as Spark, Data Engineering, Data Modeling, System Design, and more.  
+
+Users submit their answers, and the app instantly calls GPT-4o-mini to provide a score (0–10), detailed structured feedback (What You Did Well, How to Improve, Bonus Points Suggestions), improvement tips, and a reference/model answer. The tool features a clean, user-friendly Tkinter-based interface with a smart live-search question picker, category filtering, live timer, retry functionality, and persistent history tracking.
+
+A built-in GUI Question Builder makes it easy to expand the question bank. All practice history is saved permanently in JSONL format for performance review and self-improvement tracking.
+
+**Goal**:  
+To create an intelligent, interactive, and personalized interview preparation tool that simulates real technical interviews with AI-powered real-time grading and actionable feedback, helping Data Engineers and similar roles improve faster and more effectively.
+
+**Skills**:  
+Generative AI integration, prompt engineering, desktop application development, data persistence (JSONL), user interface design, history tracking & analytics, question bank management, API integration (OpenAI), tool building for personal productivity and MLOps-adjacent workflows.
+
+**Technology**:  
+Python, OpenAI GPT-4o-mini, JSON/JSONL, Tkinter (GUI), dotenv, Custom Prompt Templates, Batch scripting (run.bat).
+
+**Results**:  
+Built and open-sourced a fully functional AI-powered interview trainer with real-time LLM grading. Implemented smart UI/UX features for seamless practice sessions, persistent attempt history with filtering & sorting, and an intuitive question builder tool. The project demonstrates practical application of Generative AI to solve a real pain point in technical interview preparation.
+
+#### SaaS Customer Intelligence & Revenue Analytics Platform  
+
+**Code** : Internal / Enterprise Project (Architecture & Pipeline Design Showcase Available Upon Request)  
+
+**Description**:  
+The "SaaS Customer Intelligence & Revenue Analytics Platform" project involved designing and implementing a robust end-to-end ETL/ELT platform to centralize multi-source SaaS data for advanced customer intelligence and revenue analytics. The platform unified data from Billing APIs, Customer databases, and high-volume Product Usage logs into a modern cloud data warehouse on Snowflake.
+
+Scalable data pipelines were built and orchestrated using Apache Airflow with modular DAGs for ingestion, transformation, validation, and scheduling. A Medallion Architecture (Bronze → Silver → Gold) was implemented using dbt to transform raw structured and semi-structured data into analytics-ready fact and dimension tables. Incremental loading strategies and Slowly Changing Dimension (SCD Type 2) models were developed to accurately track customer lifecycle and subscription changes over time.
+
+Significant focus was placed on performance optimization of the Snowflake warehouse through incremental processing, clustering strategies, efficient query design, and cost control to reduce pipeline runtime and compute usage.
+
+**Goal**:  
+To design and operate a scalable, reliable, and analytics-ready data platform that centralizes heterogeneous SaaS data sources, enabling accurate customer intelligence, revenue reporting, and subscription analytics.
+
+**Skills**:  
+Data architecture design, ETL/ELT development, workflow orchestration, Medallion Architecture, dbt modeling, incremental loading, SCD Type 2, performance tuning, cloud data warehousing, data pipeline optimization.
+
+**Technology**:  
+AWS (S3), Snowflake, dbt, Apache Airflow, Python, SQL, REST APIs, dbt Tests.
+
+**Results**:  
+Successfully built a centralized, production-grade ETL platform handling high-volume SaaS data with daily reliable processing. Implemented modern Medallion data modeling and SCD Type 2 for accurate historical tracking. Significantly improved Snowflake warehouse performance and reduced compute costs through incremental strategies and optimization techniques.
+
+#### Customer Feedback Analysis Platform  
+
+**Code** : Internal / Enterprise Project (Architecture & Pipeline Design Showcase Available Upon Request)  
+
+**Description**:  
+The "Customer Feedback Analysis Platform" project focused on developing a scalable multilingual customer feedback analysis system using Generative AI. The platform automatically translates global customer comments, extracts sentiment, key themes, and actionable insights from large volumes of unstructured text data.
+
+End-to-end pipelines were built on Google Cloud using Apache Airflow (via Cloud Composer) to orchestrate translation, LLM inference, sentiment processing, and analytics workflows. Large Language Models were fine-tuned using prompt-tuning and PEFT techniques to improve translation accuracy and sentiment relevance, with model performance rigorously evaluated using ROUGE and BLEU metrics. 
+
+BigQuery workloads were heavily optimized to reduce query execution time by approximately 40%, significantly improving downstream analytical performance. The solution was integrated into existing CI/CD processes with Jenkins, enabling automated testing and deployment of Dockerized LLM components to Artifact Registry on every Git commit.
+
+Strong emphasis was placed on production-grade reliability, model evaluation, documentation, and operational efficiency.
+
+**Goal**:  
+To build an intelligent, scalable, and multilingual customer feedback analysis platform that leverages Generative AI and MLOps practices to deliver accurate sentiment insights and support data-driven decision making at a global scale.
+
+**Skills**:  
+Generative AI application development, LLM fine-tuning (PEFT & Prompt Tuning), MLOps, pipeline orchestration, multilingual text processing, SQL performance optimization, CI/CD for ML components, model evaluation.
+
+**Technology**:  
+Google Cloud (Cloud Composer, BigQuery, Cloud Storage, Dataflow, Artifact Registry), Apache Airflow, Python, SQL, Generative AI, LLM Fine-Tuning (PEFT, Prompt Tuning), Jenkins, Docker, ROUGE/BLEU Metrics.
+
+**Results**:  
+Successfully developed and deployed a production-ready multilingual feedback analysis system powered by fine-tuned LLMs. Achieved ~40% reduction in BigQuery query execution time through optimization. Established automated MLOps pipelines for reliable LLM component deployment and delivered comprehensive technical documentation for long-term maintainability.
 
 #### Intelligent Banking Lakehouse & AI-Augmented Data Engineering  
 
