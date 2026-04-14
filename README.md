@@ -10,6 +10,30 @@
 
 **Linkedin**: [My Profile](https://www.linkedin.com/in/tuanx18/)
 
+**My Tech Stacks**
+
+- **Programming Language**: SQL, Python, any other programming languages can be adapted easily (Java, C++, etc.)
+
+- **Cloud**: Google Cloud (Bigquery, Cloud Storage, Pub/Sub, Cloud Composer), Amazon Web Services (S3, EC2, Kinesys, Glue, Lambda)
+
+- **Data Engineering / Orchestration**: Airflow, Snowflake, Databricks, data build tool (dbt)
+
+- **Database**: Relational Databases (SQL Server, MySQL, PostgreSQL, Oracle), Cloud Data Warehouses (Snowflake, BigQuery), Lakehouse Storage (Delta Lake), NoSQL (MongoDB)
+
+- **Data Modeling & Architecture**: Dimensional Modeling (Star/Snowflake Schema), Data Vault Modeling, Slowly Changing Dimensions (SCD), Data Governance Frameworks, Data Lineage Design, Medallion Architecture (Bronze/Silver/Gold)
+
+- **Big Data**: Apache Spark (PySpark, Spark SQL, Structured Streaming), Delta Lake
+DevOps: Git, Jenkins, Docker
+
+- **Testing**: Unit Testing: pytest, unittest (Python), Integration Testing: For pipelines (Airflow DAG validation, Spark job testing)
+
+- **Front-end**: HTML, CSS, Vue, REST API
+
+- **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Backtracking, Heaps, etc. 
+Problem-Solving: Proficient in algorithmic techniques (two-pointer, sliding window, recursion, BFS/DFS)
+
+- **Language**: English, Japanese, Vietnamese
+
 Hello, my name is Anh Tuan. I am a **Data Engineer** with a strong foundation in Computer Science and a deep passion for building scalable, reliable data systems. With a degree in Computer Science – Software Development, I bring a solid engineering mindset to the world of data, combining software architecture principles with advanced data platform expertise.
 
 My journey began with a strong interest in Data Analysis and Data Science, but as I progressed through university and into the professional world, I discovered that my true strength lies in engineering the infrastructure that powers data-driven organizations. Leveraging my background in object-oriented programming, system design, and software quality, I transitioned naturally into Data Engineering, where I could build robust pipelines, scalable architectures, and cloud-native data platforms.
@@ -49,8 +73,6 @@ Over the past four years, I have grown into an experienced Data Engineer, specia
 In my portfolio, you’ll find a diverse collection of projects spanning Data Engineering, Data Science, and Data Analysis, with a primary focus on building robust, scalable data systems. I specialize in designing and implementing end-to-end data pipelines, optimizing data architectures, and ensuring reliable data workflows that power analytics and machine learning solutions. Alongside strong engineering foundations, I apply advanced analytical and data science techniques to extract meaningful insights, solve complex real-world problems, and support data-driven decision-making. This combination reflects my ability not only to analyze data, but to engineer the infrastructure that makes impactful analytics possible.
 
 ### Table of Contents
-
-#### 1. Data Engineering
 
   - Data Engineering
     - **Retail Enterprise Data Platform & Pipeline Orchestration**  
