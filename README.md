@@ -58,6 +58,18 @@ As I progressed academically and professionally, I recognized the powerful inter
 
 Over the past four years, I have grown into an experienced Data Engineer, specializing in scalable data architecture, cloud-based data platforms, and production-grade pipeline development. My journey from data analysis to data engineering has allowed me to bridge the gap between data infrastructure and advanced analytics, enabling organizations to make reliable, data-driven decisions with confidence.
 
+As of April 2026, I have expanded my skill set into Generative AI and MLOps. Notable recent projects include developing a scalable multilingual Customer Feedback Analysis Platform on Google Cloud using fine-tuned LLMs, as well as open-sourcing an AI-powered Interview Trainer Chatbot that delivers real-time scoring and structured feedback for technical interview preparation. These experiences have strengthened my ability to design intelligent data systems that go beyond traditional ETL — combining robust data engineering with modern AI capabilities.
+
+### My Orientation - Short-term and Long-term Vision
+
+As of 2026, I have evolved into a well-rounded Senior Data Engineer with over four years of hands-on experience designing and delivering enterprise-grade data platforms across GCP, AWS, and Snowflake environments. My recent projects demonstrate increasing technical depth and leadership: I led the architecture and implementation of a production-grade SaaS Customer Intelligence platform using Medallion Architecture, dbt, and Airflow; designed and optimized a multilingual Customer Feedback Analysis system powered by Generative AI and fine-tuned LLMs (PEFT + prompt tuning); and built scalable MLOps pipelines integrating Jenkins, Docker, and Google Cloud Composer for automated LLM deployment.
+
+Beyond core data engineering, I am proactively expanding my expertise into modern AI-native data systems, including agentic workflows, LLM orchestration, prompt engineering at scale, and the integration of Generative AI into data pipelines for intelligent automation. I also developed and open-sourced the Interview Trainer AI Chatbot — a practical GenAI tool that helps technical professionals prepare for interviews with real-time AI grading and feedback — showcasing my ability to turn emerging technologies into usable, high-impact solutions.
+
+With a strong foundation in software engineering principles, cloud architecture, data modeling, and now AI/ML system design, I bring a holistic, systems-thinking approach to every project. I have consistently taken ownership of end-to-end solutions, mentored junior engineers, optimized platform performance and costs, and aligned complex technical implementations with business outcomes.
+
+Looking ahead, I am orienting my career toward **Data Solutions Architect** and **Principal Data Engineer** roles. My goal is to design and lead the development of large-scale, intelligent, and future-proof data ecosystems that seamlessly combine robust data infrastructure with AI-driven capabilities, enabling organizations to unlock greater value from their data while maintaining scalability, governance, and reliability at enterprise level.
+
 ## Certificates
 
 - Google Cloud Professional Data Engineer 
